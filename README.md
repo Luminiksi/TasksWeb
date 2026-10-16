@@ -1,6 +1,6 @@
-# TaskFlow Backend
+# TaskFlow Frontend
 
-Frontend часть TaskFlow — веб-приложения для управления проектами и задачами, вдохновлённого Jira.
+Frontend0часть TaskFlow — веб-приложения для управления проектами и задачами, вдохновлённого Jira.
 
 ## О проекте
 
